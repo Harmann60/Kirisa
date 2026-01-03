@@ -13,7 +13,7 @@ This project aims to bridge that gap by creating a marketplace where users can e
 
 ---
 
-## ! Problem Statement
+## Problem Statement
 
 Cross-border shopping faces several real-world challenges:
 
