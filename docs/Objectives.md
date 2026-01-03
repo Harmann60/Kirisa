@@ -69,11 +69,11 @@ As a **Project-Based Learning (PBL)** initiative, the project also aims to:
 ## 7. Success Criteria
 The project will be considered successful if it:
 
-* ✅ Clearly demonstrates how cross-border shopping challenges are addressed.
-* ✅ Provides transparent pricing before purchase.
-* ✅ Shows cost reduction through group buying.
-* ✅ Supports two-way global commerce.
-* ✅ Is well-documented and easy to understand for reviewers.
+*  Clearly demonstrates how cross-border shopping challenges are addressed.
+*  Provides transparent pricing before purchase.
+*  Shows cost reduction through group buying.
+*  Supports two-way global commerce.
+*  Is well-documented and easy to understand for reviewers.
 
 ---
 
