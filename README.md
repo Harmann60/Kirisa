@@ -1,6 +1,6 @@
 # Global Cross-Border Marketplace Platform
 
-> **A platform that simplifies cross-border product discovery between India and the rest of the world, making hard-to-find products accessible with transparent pricing.**
+**A platform that simplifies cross-border product discovery between India and the rest of the world, making hard-to-find products accessible with transparent pricing.**
 
 ---
 
